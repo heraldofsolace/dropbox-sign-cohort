@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@dropbox/sign": "^1.2.2",
     "formidable": "^3.5.1",
     "next": "14.0.4",
     "react": "^18",
